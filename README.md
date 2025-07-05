@@ -12,7 +12,7 @@ I'm passionate about applying data-driven approaches to public policy, internati
 
 ### 🔬 Projects
 
-- 🔭 **The Effect of Emissions on Real Estate Prices**  
+- 🔭 **The Effect of Emissions on Real Estate Prices in Dresden**  
   Analyzed the relationship between emission levels and economic performance using R and cross-sectional data methods.  
   📎 [View project](https://github.com/mammadov-elvin/The-Effect-of-NO2-on-Rent-prices-in-Dresden.git)
 
@@ -25,7 +25,7 @@ I'm passionate about applying data-driven approaches to public policy, internati
 ### 🌱 Recently Learned
 
 - R programming for statistical computing and economic modeling  
-- Data visualization using `ggplot2`  
+- Data visualization
 - Regression analysis & fixed effects models  
 - Empirical research workflows in RStudio
 
