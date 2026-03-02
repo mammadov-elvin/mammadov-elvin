@@ -4,7 +4,7 @@
 
 <p align="center">
 I am a Master's student in <strong>Public and International Economics</strong> at <em>TU Dresden</em> with a strong interest in data analysis and policy evaluation.  
-I have hands-on experience as a junior R Studio developer, working on empirical research projects involving data visualization, statistical modeling, and economic analysis.  
+I have hands-on experience as a junior data analyst using R , Excel, Power BI and SQL, working on empirical research projects involving data visualization, statistical modeling, and economic analysis.  
 I'm passionate about applying data-driven approaches to public policy, international development, and economic research.
 </p>
 
