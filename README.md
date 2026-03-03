@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elvin Mammadov</h1>
 
-<h3 align="center">Master's Student | R Developer | Economic Research Enthusiast</h3>
+<h3 align="center">Master's Student | Data Analyst | Economic Research Enthusiast</h3>
 
 <p align="center">
 I am a Master's student in <strong>Public and International Economics</strong> at <em>TU Dresden</em> with a strong interest in data analysis and policy evaluation.  
@@ -18,7 +18,7 @@ I'm passionate about applying data-driven approaches to public policy, internati
 
 - 🔭 **The Effect of Regime Changes on Economic Preferences**  
   Investigated how exposure to political transitions during formative years influences trust, risk-taking, and patience using pseudopanel and fixed effects models.  
-  📎 [View project](https://github.com/mammadov-elvin/regime-changes-and-economic-preferences.git)
+  📎 [View project]([https://github.com/mammadov-elvin/regime-changes-and-economic-preferences.git](https://github.com/mammadov-elvin/regime-changes-and-economic-preferences.git))
 
 ---
 
@@ -40,7 +40,7 @@ I'm passionate about applying data-driven approaches to public policy, internati
 ### 🤝 Connect with me  
 <!-- Add your actual profile links below -->
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">LinkedIn</a>  
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">LinkedIn](https://www.linkedin.com/in/elvin-mammadov-182949397?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXBizG%2BcST%2Bu55TJM4GWqXA%3D%3D)</a>  
 <!-- <a href="https://twitter.com/YOUR-HANDLE" target="blank">Twitter</a> -->
 </p>
 
