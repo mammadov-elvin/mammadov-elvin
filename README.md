@@ -18,7 +18,7 @@ I'm passionate about applying data-driven approaches to public policy, internati
 
 - 🔭 **The Effect of Regime Changes on Economic Preferences**  
   Investigated how exposure to political transitions during formative years influences trust, risk-taking, and patience using pseudopanel and fixed effects models.  
-  📎 [View project]([https://github.com/mammadov-elvin/regime-changes-and-economic-preferences.git](https://github.com/mammadov-elvin/regime-changes-and-economic-preferences.git))
+  📎 [View project](https://github.com/mammadov-elvin/regime-changes-and-economic-preferences.git)
 
 ---
 
